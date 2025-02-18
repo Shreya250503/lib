@@ -32,7 +32,7 @@ Follow these steps to run the Library Management System on your local machine:
 ### *1. Clone the Repository*
 Open your terminal or command prompt and run:
 ```sh
-git clone https://github.com/snehah13/library-management-system.git
+git clone https://github.com/Shreya250503/library-management-system.git
 cd library-management-system
 
 ##2. Install Python (if not installed)
