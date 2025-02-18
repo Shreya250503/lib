@@ -47,3 +47,8 @@ python library_system.py
 Choose an option (1-6) to perform different library operations.
 Follow on-screen instructions to add, delete, borrow, or return books.
 To exit the system, select option 6.
+
+
+### Author
+Shreya Gadagi
+GitHub: [Shreya250503](https://github.com/Shreya250503)
